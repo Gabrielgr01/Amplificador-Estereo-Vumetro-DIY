@@ -3,7 +3,7 @@ Amplificador de audio estéreo con vúmetro + parlantes (DIY)
 
 **Materiales:**
 
-[Circuito v1]
+*Circuito v1*
 
 Amplificador:
 - TDA7265 (x1)
@@ -24,7 +24,7 @@ Vúmetro:
 - Resistencia 470 (x1) *
 - Diodo Zener 5.1V (x1) *Funciona cualquier valor entre 3.3V y +Vs* *
 
-[Parlante]
+*Parlante*
 
 Para 2 parlantes/cajas:
 - Altavoces de 8 ohm (x2)
