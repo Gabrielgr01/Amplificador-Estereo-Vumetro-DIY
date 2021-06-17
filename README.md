@@ -17,6 +17,7 @@ Amplificador:
 - Capacitor electrolítico 1000uF (x2)
 - Capacitor electrolítico 1uF (x2)
 - Capacitor 0.1uF (x4)
+
 Vúmetro:
 - LM3915 (x1)
 - Capacitor electrolítico 2.2uF (x1)
