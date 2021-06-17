@@ -1,2 +1,2 @@
 # Amplificador-Estereo-Vumetro-DIY
-Amplificador estéreo con vúmetro + parlantes (DIY)
+Amplificador de audio estéreo con vúmetro + parlantes (DIY)
