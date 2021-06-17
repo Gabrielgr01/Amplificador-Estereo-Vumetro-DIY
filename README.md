@@ -1,9 +1,10 @@
 # Amplificador-Estereo-Vumetro-DIY
 Amplificador de audio estéreo con vúmetro + parlantes (DIY)
 
-[Materiales:]
+**Materiales:**
 
-*Circuito v1*
+[Circuito v1]
+
 Amplificador:
 - TDA7265 (x1)
 - Conector de audio estéreo hembra (jack) de 3.5mm (1/8'')
@@ -23,7 +24,8 @@ Vúmetro:
 - Resistencia 470 (x1) *
 - Diodo Zener 5.1V (x1) *Funciona cualquier valor entre 3.3V y +Vs* *
 
-*Parlante*
+[Parlante]
+
 Para 2 parlantes/cajas:
 - Altavoces de 8 ohm (x2)
 - Tubo de aire (Impreso en 3D)
@@ -34,12 +36,12 @@ Para 2 parlantes/cajas:
 - Tornillo M4x25 con tuerca (x4)
 
 Notas:
-* Se pueden variar los valores:
-Las resistencias de 10k regulan la ganancia del amplificador (valor mínimo recomendado: 560 ohm).
-Las resistencias del divisor de tensión del vúmetro (las de 1k) regulan la tensión Vref que satura a los diodos (ver hoja de datos para más detalles).
-La resistencia de 470 del vúmetro regula la cantidad de corriente de los diodos (si se calienta utilizar una de mayor valor).
+Se pueden variar los valores *
+- Las resistencias de 10k regulan la ganancia del amplificador (valor mínimo recomendado: 560 ohm).
+- Las resistencias del divisor de tensión del vúmetro (las de 1k) regulan la tensión Vref que satura a los diodos (ver hoja de datos para más detalles).
+- La resistencia de 470 del vúmetro regula la cantidad de corriente de los diodos (si se calienta utilizar una de mayor valor).
 
-[Próximas mejoras:]
+**Próximas mejoras:**
 - Conversor de tensión para alimentarlo con un cargador de +12V únicamente y no necesitar una fuente
 - Montaje en placa perforada
 - Diseño de caja para el circuito amplificador (Impreso en 3D)
