@@ -49,5 +49,5 @@ Se pueden variar los valores *
 - Perilla de control de ganancia
 
 **Hojas de datos** con los circuitos de referencia:
-https://www.alldatasheet.com/datasheet-pdf/pdf/25084/STMICROELECTRONICS/TDA7265.html
-https://www.alldatasheet.com/datasheet-pdf/pdf/558236/TI/LM3915.html
+- https://www.alldatasheet.com/datasheet-pdf/pdf/25084/STMICROELECTRONICS/TDA7265.html
+- https://www.alldatasheet.com/datasheet-pdf/pdf/558236/TI/LM3915.html
