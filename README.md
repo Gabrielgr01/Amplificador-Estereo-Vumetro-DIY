@@ -52,6 +52,6 @@ Se pueden variar los valores *
 - https://www.alldatasheet.com/datasheet-pdf/pdf/25084/STMICROELECTRONICS/TDA7265.html
 - https://www.alldatasheet.com/datasheet-pdf/pdf/558236/TI/LM3915.html
 
-*Créditos:*
+**Créditos:**
 - Diseño del circuito: Gabriel O. González Rodríguez y Matías Cedeño León.
 - Archivos CAD y .stl: Gabriel O. González Rodríguez
