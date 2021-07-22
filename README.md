@@ -1,10 +1,6 @@
 # Amplificador-Estereo-Vumetro-DIY
 Amplificador de audio estéreo con vúmetro + parlantes (DIY)
 
-* Créditos:
-* Diseño del circuito: Gabriel O. González Rodríguez y Matías Cedeño León.
-* Archivos CAD y .stl: Gabriel O. González Rodríguez
-
 **Materiales:**
 
 *Circuito v1*
@@ -55,3 +51,7 @@ Se pueden variar los valores *
 **Hojas de datos** con los circuitos de referencia:
 - https://www.alldatasheet.com/datasheet-pdf/pdf/25084/STMICROELECTRONICS/TDA7265.html
 - https://www.alldatasheet.com/datasheet-pdf/pdf/558236/TI/LM3915.html
+
+*Créditos:*
+- Diseño del circuito: Gabriel O. González Rodríguez y Matías Cedeño León.
+- Archivos CAD y .stl: Gabriel O. González Rodríguez
