@@ -38,7 +38,7 @@ Para 2 parlantes/cajas:
 
 Notas:
 
-El diagrama v2 no se ha probado en protoboard aún.
+El diagrama v2 no se ha probado en protoboard aún. Tampoco se han a agregado los componentes extra a la lista de materiales.
 
 Se pueden variar los valores *
 - Las resistencias de 10k regulan la ganancia del amplificador (valor mínimo recomendado: 560 ohm).
