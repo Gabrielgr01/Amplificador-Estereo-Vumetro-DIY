@@ -46,7 +46,7 @@ Se pueden variar los valores *
 - La resistencia de 470 del vúmetro regula la cantidad de corriente de los diodos (si se calienta utilizar una de mayor valor).
 
 **Próximas mejoras:**
-- Conversor de tensión para alimentarlo con un cargador de +12V únicamente y no necesitar una fuente
+- Circuito de alimentación para poder conectar el parlante al tomacorriente y no necesitar una fuente de tensión con +V y -V. (En progreso, circuito v2)
 - Montaje en placa perforada
 - Diseño de caja para el circuito amplificador (Impreso en 3D)
 - Perilla de control de ganancia
