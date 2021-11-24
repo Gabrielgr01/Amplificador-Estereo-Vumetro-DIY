@@ -1,8 +1,6 @@
 # Amplificador-Estereo-Vumetro-DIY
 Amplificador de audio estéreo con vúmetro + parlantes (DIY)
 
-*El diagrama v2 no se ha probado en protoboard aún.
-
 **Materiales:**
 
 *Circuito v1*
@@ -39,6 +37,8 @@ Para 2 parlantes/cajas:
 - Tornillo M4x25 con tuerca (x4)
 
 Notas:
+El diagrama v2 no se ha probado en protoboard aún.
+
 Se pueden variar los valores *
 - Las resistencias de 10k regulan la ganancia del amplificador (valor mínimo recomendado: 560 ohm).
 - Las resistencias del divisor de tensión del vúmetro (las de 1k) regulan la tensión Vref que satura a los diodos (ver hoja de datos para más detalles).
