@@ -37,6 +37,7 @@ Para 2 parlantes/cajas:
 - Tornillo M4x25 con tuerca (x4)
 
 Notas:
+
 El diagrama v2 no se ha probado en protoboard aún.
 
 Se pueden variar los valores *
