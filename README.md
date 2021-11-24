@@ -1,7 +1,7 @@
 # Amplificador-Estereo-Vumetro-DIY
 Amplificador de audio estéreo con vúmetro + parlantes (DIY)
 
-* El diagrama v2 no se ha probado en protoboard aún.
+*El diagrama v2 no se ha probado en protoboard aún.
 
 **Materiales:**
 
