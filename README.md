@@ -48,8 +48,8 @@ Se pueden variar los valores *
 **Próximas mejoras:**
 - Circuito de alimentación para poder conectar el parlante al tomacorriente y no necesitar una fuente de tensión con +V y -V. (En progreso, circuito v2)
 - Montaje en placa perforada
-- Diseño de caja para el circuito amplificador (Impreso en 3D) [Listo]
-- Perilla de control de ganancia [En progreso, circuito v2]
+- Diseño de caja impresa en 3D para el circuito amplificador (Listo)
+- Perilla de control de ganancia. (En progreso, circuito v2)
 
 **Hojas de datos** con los circuitos de referencia:
 - https://www.alldatasheet.com/datasheet-pdf/pdf/25084/STMICROELECTRONICS/TDA7265.html
