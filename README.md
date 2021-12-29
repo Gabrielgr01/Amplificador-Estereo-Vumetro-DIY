@@ -6,8 +6,8 @@ Amplificador de audio estéreo con vúmetro + parlantes (DIY)
 *Circuito v1*
 
 Amplificador:
-- TDA7265 (x1)
-- Conector de audio estéreo hembra (jack) de 3.5mm (1/8'')
+- TDA7265 (x1) https://www.microjpm.com/products/ad39295/
+- Conector de audio estéreo hembra (jack) de 3.5mm (1/8'') https://www.microjpm.com/products/jack-de-audio-de-3-5-mm-monoaural-encapsulado-para-chasis/
 - Fuente de alimentación (+12V y -12V)
 - Potenciómetro 50k (x2) o un solo potenciómetro doble de 50k *
 - Resistencia 18k (x2)
@@ -19,7 +19,7 @@ Amplificador:
 - Capacitor 0.1uF (x4)
 
 Vúmetro:
-- LM3915 (x1)
+- LM3915 (x1) *también funciona con el LM3914* https://www.microjpm.com/products/lm3915/
 - Capacitor electrolítico 2.2uF (x1)
 - Resistencia 1k (x2) *
 - Resistencia 470 (x1) *
@@ -28,7 +28,7 @@ Vúmetro:
 *Parlante*
 
 Para 2 parlantes/cajas:
-- Altavoces de 8 ohm (x2)
+- Altavoces de 8 ohm (x2) https://www.microjpm.com/products/ad45315/
 - Tubo de aire (Impreso en 3D)
 - Disco para altavoz (Impreso en 3D)
 - 2.576 m^2 de MDF o Plywood de 3mm (Corte laser)
